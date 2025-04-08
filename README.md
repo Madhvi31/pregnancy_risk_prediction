@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MedPredict - Advanced Maternal and Fetal Health Prediction Platform
 
 ## Introduction
@@ -44,3 +45,6 @@ cd medpredict
 streamlit run main.py
 ```
 This will launch the Streamlit app locally. Open your web browser and navigate to the provided local address to explore MedPredict.
+=======
+# pregnanc_risk-and-fetal_detection
+>>>>>>> 50680b69dfc1f27f5f084a5710ce36dd0a9649e4
